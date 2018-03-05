@@ -1,13 +1,10 @@
 # ZDoom-Based-Engine-Launcher
 
-English:
-ZDoom-Based Engine Frontend(Launcher)
+English: 
 
-It is a launcher for ZDoom based source port, and it also supports English.
+# ZDoom Based Engine Launcher(ZDBL). 
+Launcher for ZDoom derivative Engines. ZDoom/GZDoom/QZDoom/Skulltag/Zandronum and more. 
 
-Notice:
-We have not released an update of ZDoom Based Engine Launcher currently at Github.
-Please download the latest version from the following page or download the old version from the release tab and update it with updater.
 
 http://www.geocities.jp/masato_382/ZDBL/en_us/
 
