@@ -1,5 +1,7 @@
-# ZDoom-Based-Engine-Launcher
+# ZDoom Based Engine Launcher
 ![ZDBL.png](http://www.geocities.jp/masato_382/ZDBL/image/screen-en.png "ZDBL_Image")
+
+[Website](http://www.geocities.jp/masato_382/ZDBL/)
 
 # What is ZDoom Based Engine Launcher (ZDBL)?
 Launcher for ZDoom derivative Engines. ZDoom/GZDoom/QZDoom/Skulltag/Zandronum and more. 
@@ -30,3 +32,7 @@ Iwad version checker
 etc...
 For other, please visit [ZDoom Based Engine Launcher's page](
 http://www.geocities.jp/masato_382/ZDBL/en_us/).
+
+## Caution:
+## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Web Page](
+http://www.geocities.jp/masato_382/ZDBL/en_us/) at any time.
