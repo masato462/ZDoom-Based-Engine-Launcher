@@ -1,5 +1,5 @@
 # ZDoom Based Engine Launcher
-<img src="http://www.geocities.jp/masato_382/ZDBL/image/screen-en.png" alt="attach:a" title="attach:a" width="200" height="200">
+<img src="http://www.geocities.jp/masato_382/ZDBL/image/screen-en.png" alt="attach:a" title="attach:a" width="300" height="350">
 
 
 [Website](http://www.geocities.jp/masato_382/ZDBL/) - [Changelog](http://www.geocities.jp/masato_382/ZDBL/Changelog/) - [Download](http://www.geocities.jp/masato_382/ZDBL/en_us/)
