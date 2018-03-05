@@ -31,9 +31,7 @@ Iwad version checker
 "Checking and updating version of Iwad"
 
 etc...
-For other, please visit [ZDoom Based Engine Launcher's page](
-http://www.geocities.jp/masato_382/ZDBL/en_us/).
+For other, please visit [ZDoom Based Engine Launcher's page](http://www.geocities.jp/masato_382/ZDBL/en_us/).
 
 ## Caution:
-## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Web Page](
-http://www.geocities.jp/masato_382/ZDBL/en_us/) at any time.
+## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Web Page](http://www.geocities.jp/masato_382/ZDBL/en_us/) at any time.
