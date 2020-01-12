@@ -2,7 +2,7 @@
 <img src="http://www.geocities.jp/masato_382/ZDBL/image/screen-en.png" alt="attach:a" title="attach:a" width="350" height="300">
 
 
-[Website](http://www.geocities.jp/masato_382/ZDBL/) - [Changelog](http://www.geocities.jp/masato_382/ZDBL/Changelog/) - [Download](http://www.geocities.jp/masato_382/ZDBL/en_us/)
+[Website](https://sites.google.com/view/zdoom-based-engine-launcher/) - (!)[Changelog](http://www.geocities.jp/masato_382/ZDBL/Changelog/) - [Download](https://github.com/masato462/ZDoom-Based-Engine-Launcher/releases)
 
 # What is ZDoom Based Engine Launcher (ZDBL)?
 Launcher for ZDoom derivative Engines. ZDoom/GZDoom/QZDoom/Skulltag/Zandronum and more. 
@@ -34,4 +34,4 @@ etc...
 For other, please visit [ZDoom Based Engine Launcher's page](http://www.geocities.jp/masato_382/ZDBL/en_us/).
 
 ## Caution:
-## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Web Page](http://www.geocities.jp/masato_382/ZDBL/en_us/) at any time.
+## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Web Page](https://github.com/masato462/ZDoom-Based-Engine-Launcher/releases) at any time.
