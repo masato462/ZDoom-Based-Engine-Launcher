@@ -2,7 +2,7 @@
 <img src="image/unnamed.png" alt="attach:a" title="attach:a" width="350" height="300">
 
 
-[Website](https://sites.google.com/view/zdoom-based-engine-launcher/) - (!)[Changelog](http://www.geocities.jp/masato_382/ZDBL/Changelog/) - [Download](https://github.com/masato462/ZDoom-Based-Engine-Launcher/releases)
+[Website](https://sites.google.com/view/zdoom-based-engine-launcher/) - [Changelog](https://furnisedchunk.ninja-x.jp/ZDBL/en_us/Changelog/) - [Download](https://github.com/masato462/ZDoom-Based-Engine-Launcher/releases)
 
 # What is ZDoom Based Engine Launcher (ZDBL)?
 Launcher for ZDoom derivative Engines. ZDoom/GZDoom/QZDoom/Skulltag/Zandronum and more. 
