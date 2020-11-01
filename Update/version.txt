@@ -1,2 +1,1 @@
-update server changed. 
-but new version released. Click ok to Countinue.
+3.0.6.8
