@@ -15,5 +15,11 @@ etc...
 
 For other, please visit [ZDoom Based Engine Launcher's page](https://sites.google.com/view/zdoom-based-engine-launcher/home).
 
+#Features currently under development
+:white_check_mark:The configuration files can be combined into a single ini file.
+:construction::speech_balloon:You will be able to load language files.
+(You can create your own and load them.)
+
+:white_check_mark:=Developed :wrench:=Developed and checked for bugs :construction:=under development
 ## :heavy_exclamation_mark:Attention:
 ## Currently the source code of this launcher is not released. The latest version of the launcher can be downloaded from the [Release Page](https://github.com/masato462/ZDoom-Based-Engine-Launcher/releases) at any time.
