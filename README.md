@@ -14,10 +14,15 @@ I will be slowly implementing various features.
 etc...  
 For other, please visit [ZDoom Based Engine Launcher's page](https://sites.google.com/view/zdoom-based-engine-launcher/home).  
   
-#Features currently under development  
-:white_check_mark:The configuration files can be combined into a single ini file.   
+# Features currently under development  
+:white_check_mark:The configuration files can be combined into a single ini file.  
+:white_check_mark:Partial support for EDGE  
+:white_check_mark:EDGE: Make Window mode, fullscreen mode, and rendering API selection available.  
+:white_check_mark:Option to enable dedicated servers to run Chocolate Doom  
+:construction:Move the game database to an external file so that you can add game data freely.  
 :construction::speech_balloon:You will be able to load language files.   
 (You can create your own and load them.)  
+:construction:Support for more Chocolate Doom features  
   
 :white_check_mark:=Developed :wrench:=Developed and checked for bugs :construction:=under development  
 ## :heavy_exclamation_mark:Attention:
