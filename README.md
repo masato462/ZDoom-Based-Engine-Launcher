@@ -15,7 +15,7 @@ etc...
 For other, please visit [ZDoom Based Engine Launcher's page](https://sites.google.com/view/zdoom-based-engine-launcher/home).  
   
 # Features currently under development  
-:white_check_mark:The configuration files can be combined into a single ini file.  
+:white_check_mark::rage1:The configuration files can be combined into a single ini file.  
 :white_check_mark:Partial support for EDGE  
 :white_check_mark:EDGE: Make Window mode, fullscreen mode, and rendering API selection available.  
 :white_check_mark:Option to enable dedicated servers to run Chocolate Doom  
